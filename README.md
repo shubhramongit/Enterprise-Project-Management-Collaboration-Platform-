@@ -111,6 +111,3 @@ Do not commit `.env` files, passwords, API tokens, or production credentials. Ad
 - Avoid logging credentials or sensitive user content.
 - Test cache invalidation and transactional rollback paths, not only happy-path requests.
 
-## License
-
-No license has been specified yet. Add a license file before inviting reuse or contributions.
