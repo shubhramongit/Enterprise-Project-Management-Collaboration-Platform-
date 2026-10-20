@@ -1,4 +1,3 @@
-[README_Project_1.md](https://github.com/user-attachments/files/33725961/README_Project_1.md)
 # Enterprise Project Management & Collaboration Platform
 
 A planned full-stack workspace for engineering teams to organize projects, track issues, and collaborate around day-to-day development work. The product is conceptually similar to a lightweight Jira or Linear: teams group work into projects, represent work as issues, and keep discussion close to the task being completed.
